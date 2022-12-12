@@ -1,0 +1,1 @@
+export {default as MockService} from '../services/MockService';
